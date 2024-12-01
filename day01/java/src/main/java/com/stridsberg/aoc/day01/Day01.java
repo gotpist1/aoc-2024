@@ -1,6 +1,5 @@
 package com.stridsberg.aoc.day01;
 
-import org.apache.commons.io.Charsets;
 import org.apache.commons.io.FileUtils;
 
 import java.io.File;
