@@ -1,13 +1,12 @@
-import os
 import unittest
 
-from day01.src import aoc
+from day01.python.src import aoc
 
 
 class MyTestCase(unittest.TestCase):
 
     def test_part1(self):
-        aoc.start('input.txt', 'part1')
+        aoc.start('input.txt', 'part2')
 
 
 
