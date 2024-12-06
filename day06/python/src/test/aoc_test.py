@@ -10,7 +10,6 @@ class MyTestCase(unittest.TestCase):
 
     def test_part2(self):
         aoc.start('../../../input.txt', 'part2')
-        # 2008 <-- correct
 
 
 
